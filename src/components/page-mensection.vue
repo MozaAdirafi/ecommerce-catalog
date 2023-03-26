@@ -18,7 +18,7 @@
         <div class="page-mensection-group21">
           <div class="page-mensection-group7">
             <span class="page-mensection-text">
-              <span>{{product.title}}</span>
+              <span>{{product.title}} ({{ product.rating.rate }}⭐)</span>
             </span>
             <span class="page-mensection-text02">
               <span>{{ product.category }}</span>
