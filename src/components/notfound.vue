@@ -21,12 +21,12 @@
             <div class="page-unavailableproduct-page-unavailableproduct">
               <img
                 alt="Rectangle52429"
-                src="playground_assets/rectangle52429-z7pb-2000w.png"
+                src="../assets/images/rectangle52429-z7pb-2000w.png"
                 class="page-unavailableproduct-rectangle5"
               />
               <img
                 alt="Rectangle72438"
-                src="playground_assets/rectangle72438-xquc-1100w.png"
+                src="../assets/images/rectangle72438-xquc-1100w.png"
                 class="page-unavailableproduct-rectangle7"
               />
               <div class="page-unavailableproduct-sadface">

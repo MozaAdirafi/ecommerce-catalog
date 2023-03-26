@@ -4,7 +4,7 @@
   
 <script>
   
-  import PageMensection from './components/page-mensection.vue'
+  import PageMensection from './components/ProductDisplay.vue'
   
   export default {
     name: 'app',
