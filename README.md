@@ -1,5 +1,10 @@
 # ecommerce
 
+## Description
+Sebuah Page ecommerce yang terdiri dari men's page dan women's page. Apabila category dari API bukan men/women's maka akan ditampilkan page "Not Found". Di dalam
+card ada button next product dan previous product untuk mengiterasi produk sesuai dengan urutannya.
+
+
 ## Project setup
 ```
 npm install
